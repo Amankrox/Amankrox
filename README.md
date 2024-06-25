@@ -1,5 +1,4 @@
-# 💫 About Me:
-I am currently working as a backend developer
+# 💫 About Me:I am very Lazy and my code makes people lazy
 
 
 ## 🌐 Socials:
