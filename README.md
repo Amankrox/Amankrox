@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working as a backend developer
+I am currently working as a backend developer
 
 
 ## 🌐 Socials:
