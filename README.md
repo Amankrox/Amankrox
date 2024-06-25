@@ -1,5 +1,5 @@
-# 💫 About Me:I am very Lazy and my code makes people lazy
-
+# 💫 About Me:
+I am very Lazy and my code makes people lazy
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__itz_aman_____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-834326144) 
